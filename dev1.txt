@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dev1 sdf dgdfgdfgd
+=======
+dev1 sdf dfgf
+>>>>>>> dev2
